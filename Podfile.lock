@@ -187,5 +187,7 @@ SPEC CHECKSUMS:
   UIImageViewAligned: 5726c9651898342c19588a02e2115cace59342ee
   UIView+BooleanAnimations: a760be9a066036e55f298b7b7350a6cb14cfcd97
   XNGMarkdownParser: 562999edfa0e0913dc345f0931bdd78be59f826e
+  
 
 COCOAPODS: 0.39.0.beta.4
+
