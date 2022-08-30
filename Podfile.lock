@@ -1,23 +1,15 @@
 PODS:
-  - SDWebImage (2.2.2)
-  - FirebaseInstanceID (2.2.2)
-  
+  - FirebaseAnalytics (4.0.1)
+  - SwiftyJSON (3.0.0)
 
 DEPENDENCIES:
-  - SDWebImage (2.2.2)
-  - FirebaseInstanceID (2.2.2)
-
-SPEC REPOS:
-  trunk:
-    - SDWebImage (2.2.2)
-    - FirebaseInstanceID (2.2.2)
+  - FirebaseAnalytics (~> 4.0)
+  - SwiftyJSON (~> 3.0)
 
 SPEC CHECKSUMS:
-  Reveal-SDK: 5d7e56b8f018c0a88b3a2c10bf68d598bbd3b071
+  FirebaseAnalytics: 7682d43245de14874acd142ec137b144aa1dd335
+  SwiftyJSON: 6594aa1139a67dcd36cde6da79ea4e5b318e60fb
 
-PODFILE CHECKSUM: 3558c3b60c01e8cff4f7b0ac1bd6ef19441afc81
+PODFILE CHECKSUM: 68c7abf770896bd0a5491215e2618054338bed0e
 
-COCOAPODS: 1.10.0
-
-pod "TensorFlowLiteObjC", "2.2.2"
-
+COCOAPODS: 1.0.1
