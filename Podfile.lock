@@ -20,3 +20,4 @@ PODFILE CHECKSUM: 3558c3b60c01e8cff4f7b0ac1bd6ef19441afc81
 COCOAPODS: 1.10.0
 
 pod "TensorFlowLiteObjC", "2.2.2"
+
