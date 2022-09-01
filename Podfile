@@ -6,6 +6,6 @@ use_frameworks!
 ENV["COCOAPODS_DISABLE_STATS"] = "true"
 
 target "IntrospectExamples"
-pod "SDWebImage", "1.1.1", :configurations => ['Debug']
-pod "FirebaseInstanceID", "1.1.1", :configurations => ['Debug']
-pod "TensorFlowLiteObjC", "1.1.1", :configurations => ['Debug']
+#pod "SDWebImage", "1.1.1", :co#nfigurations => ['Debug']
+pod "FirebaseInstanceID", "22", :configurations => ['Debug']
+#pod "TensorFlowLiteObjC", "1.1.1", :configurations => ['Debug']
