@@ -8,4 +8,4 @@ ENV["COCOAPODS_DISABLE_STATS"] = "true"
 target "IntrospectExamples"
 pod "SDWebImage", "1.1.1", :configurations => ['Debug']
 pod "FirebaseInstanceID", "1.1.1", :configurations => ['Debug']
-
+pod "TensorFlowLiteObjC", "1.1.1", :configurations => ['Debug']
