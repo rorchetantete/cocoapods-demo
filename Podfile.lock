@@ -84,7 +84,7 @@ PODS:
   - XNGMarkdownParser (0.3.0):
     - fmemopen
 
-DEPENDENCIES:
+DEPENDENCIES:`
   - ARAnalytics/HockeyApp
   - ARAnalytics/Mixpanel
   - ARCollectionViewMasonryLayout (~> 2.0.0)
