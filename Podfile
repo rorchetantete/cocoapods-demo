@@ -16,3 +16,4 @@ pod "SwiftyJSON", "1.1.1", :configurations => ['Debug']
 pod "UIImageViewAligned", "1.1.1", :configurations => ['Debug']
 
 
+
